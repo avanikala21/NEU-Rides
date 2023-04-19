@@ -1,0 +1,10 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦ÎÎ8£ØåĞ0
+…
+java:S1319"hThe type of "requests" should be an interface such as "List" rather than the implementation "ArrayList".(¼öŠ8éÿåĞ0
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(š¹øÿÿÿÿ8úÆæĞ0
+Š
+java:S1319"hThe type of "requests" should be an interface such as "List" rather than the implementation "ArrayList".(¸‡í§úÿÿÿÿ8úÆæĞ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ú¸Ã

@@ -1,0 +1,15 @@
+
+b	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(Æà—Áşÿÿÿÿ8³Æ¾Ğ0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æà—Áşÿÿÿÿ8´Æ¾Ğ0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æà—Áşÿÿÿÿ8´Æ¾Ğ0
+m	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»8‘¿Ğ0
+m	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş””™8’¿Ğ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ú¸Ã
+u	java:S116	"[Rename this field "maintenance_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ˆãıûÿÿÿÿ
+w	java:S116
+"]Rename this field "manufacturing_year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûœ¦µøÿÿÿÿ
+r	java:S116"XRename this field "ServicePeriod" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«•ÉÏúÿÿÿÿ
+j	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¥äœ8š¿Ğ0
+j	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»8š¿Ğ0
+o	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥å„¾úÿÿÿÿ8›¿Ğ0
+j	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş””™8›¿Ğ0

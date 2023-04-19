@@ -1,0 +1,11 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜŠÆ¾ùÿÿÿÿ8¡û²žÐ0
+…
+java:S1319"hThe type of "cabrides" should be an interface such as "List" rather than the implementation "ArrayList".(¬Êæ¤8Ò§³žÐ0
+’
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ä£œÃüÿÿÿÿ8âÐ³žÐ0
+Š
+java:S1319"hThe type of "cabrides" should be an interface such as "List" rather than the implementation "ArrayList".(óþèóýÿÿÿÿ8âÐ³žÐ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½ú¸Ã
+t	java:S116"SRename this field "Cabrides" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜŠÆ¾ùÿÿÿÿ8¢û²žÐ0

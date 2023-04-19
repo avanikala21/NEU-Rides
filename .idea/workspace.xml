@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b1985b3-c95e-4790-9ba1-6a70504740b3" name="Changes" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+=======
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/BookingDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/Cabride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/CabridesDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/CarsDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/CustomerRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/CustomerRequestDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/Enterprise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/EnterpriseDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/LocationDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/Organisation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Objects/OrganisationDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/AdminDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/CustomerDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/CustomerSupportAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/CustomerSupportAgentDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/DriverDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/DriverManagerDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/EnterpriseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/EnterpriseManagerDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/OrganisationManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/OrganisationManagerDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Personas/PersonDirectory.java" afterDir="false" />
+>>>>>>> main
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Admin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/AdminDirectory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/CustomerDirectory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/CustomerSupportAgent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/CustomerSupportAgentDirectory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Driver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/DriverDirectory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/DriverManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/DriverManagerDirectory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/EnterpriseManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/EnterpriseManagerDirectory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/OrganisationManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/OrganisationManagerDirectory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/neu/info5100/model/PersonDirectory.java" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> f7d8bde7f7fff9bbe2de99f2c279e6f11fa4c647
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ImiU9ev8FDDMadNao3TtBpqHUV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+<<<<<<< HEAD
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sidb/NetBeansProjects/INFO5100-project&quot;
+  }
+}</component>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/sidb/NetBeansProjects/INFO5100-project",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml"
+  }
+}]]></component>
+>>>>>>> f7d8bde7f7fff9bbe2de99f2c279e6f11fa4c647
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b1985b3-c95e-4790-9ba1-6a70504740b3" name="Changes" comment="" />
+      <created>1670793174562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670793174562</updated>
+<<<<<<< HEAD
+      <workItem from="1670807589901" duration="1283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+=======
+<<<<<<< HEAD
+    </task>
+    <servers />
+  </component>
+=======
+      <workItem from="1670807589901" duration="1283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+>>>>>>> f7d8bde7f7fff9bbe2de99f2c279e6f11fa4c647
+>>>>>>> main
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> main
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+<<<<<<< HEAD
+=======
+>>>>>>> f7d8bde7f7fff9bbe2de99f2c279e6f11fa4c647
+>>>>>>> main
+</project>
